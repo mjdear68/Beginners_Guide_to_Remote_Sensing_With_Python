@@ -7,3 +7,6 @@ Each tutorial is short and directed at completing a typical remote sensing task.
 
 Michael Dear, <br> 
 March 2024
+
+Go to the [Introduction](Introduction.ipynb) notebook to get started.
+
